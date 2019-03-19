@@ -15,7 +15,7 @@ public class mainn {
             System.out.println("Виберіть 1 щоб ввести значення ребра куба та виводу площі");
             System.out.println("Виберіть 2 щоб ввести значення для паралелелепіпеда  та виводу площі");
             System.out.println("Виберіть 3 щоб вийти");
-            System.out.println(" ");
+            System.out.println("git test ");
 
             Scanner sc = new Scanner(System.in);
 
